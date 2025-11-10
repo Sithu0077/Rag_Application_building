@@ -216,4 +216,3 @@ You’re free to use, modify, and distribute it with attribution.
 
 ---
 
-Would you like me to add a **“project demo section”** with screenshots (React chat UI + FastAPI docs page placeholders) and Markdown image blocks — so your GitHub README looks visually awesome?
