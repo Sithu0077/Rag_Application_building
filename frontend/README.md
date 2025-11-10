@@ -1,6 +1,3 @@
-Perfect 🔥 Sitharth — here’s a **professional `README.md`** for your **RAG Application** (with React frontend + FastAPI backend).
-
-It’s written in a GitHub-optimized format so that your project looks **clean, attractive, and ready for hackathons, interviews, or internships** 👇
 
 ---
 
